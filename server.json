@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2022-11-04T11:28:12.389Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-11-04T11:28:12.389Z"
+    },
+    {
+      "description": "Pizza",
+      "price": 40,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-20T23:24:02.480Z",
+      "id": 3
+    },
+    {
+      "description": "12",
+      "price": 12,
+      "category": "123",
+      "type": "income",
+      "createdAt": "2022-12-20T23:29:11.909Z",
+      "id": 4
+    },
+    {
+      "description": "Amor",
+      "price": 50000,
+      "category": "Diversão",
+      "type": "outcome",
+      "createdAt": "2022-12-20T23:36:51.361Z",
+      "id": 5
+    }
+  ]
+}
